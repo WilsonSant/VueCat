@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="src\Request.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Fable.Core" Version="4.0.0" />
+    <PackageReference Include="Fable.Fetch" Version="2.6.0" />
+    <PackageReference Include="Fable.SimpleJson" Version="3.24.0" />
+  </ItemGroup>
+</Project>

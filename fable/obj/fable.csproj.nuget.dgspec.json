@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\proj\\vueFable\\fable\\fable.csproj": {}
+  },
+  "projects": {
+    "E:\\proj\\vueFable\\fable\\fable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\proj\\vueFable\\fable\\fable.csproj",
+        "projectName": "fable",
+        "projectPath": "E:\\proj\\vueFable\\fable\\fable.csproj",
+        "packagesPath": "C:\\Users\\Meu Usuario\\.nuget\\packages\\",
+        "outputPath": "E:\\proj\\vueFable\\fable\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Meu Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Fable.Core": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Fable.Fetch": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "Fable.SimpleJson": {
+              "target": "Package",
+              "version": "[3.24.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+E:\proj\vueFable\fable\bin\Debug\net6.0\fable.deps.json
+E:\proj\vueFable\fable\bin\Debug\net6.0\fable.runtimeconfig.json
+E:\proj\vueFable\fable\obj\Debug\net6.0\fable.GeneratedMSBuildEditorConfig.editorconfig
+E:\proj\vueFable\fable\obj\Debug\net6.0\fable.AssemblyInfoInputs.cache
+E:\proj\vueFable\fable\obj\Debug\net6.0\fable.AssemblyInfo.cs
+E:\proj\vueFable\fable\obj\Debug\net6.0\fable.csproj.CopyComplete
+E:\proj\vueFable\fable\obj\Debug\net6.0\fable.genruntimeconfig.cache
