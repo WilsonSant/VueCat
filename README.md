@@ -6,9 +6,9 @@ A simple app to test out Vue with Fsharp and Fsharp Fetch
 
 ## Technologies
 
--Vite
--Vue
--F#
--Fable
--F# Request library
--F# Simple.Json library
+ - F#
+ - Vite
+ - Vue
+ - F# Fable
+ - F# Simple.Json
+ - F# Fetch
